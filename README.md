@@ -4,12 +4,12 @@ Purpose of Analysis
 
 The purpose of this analysis was to refractor the VBA code origianlly created to analyze the performance of the list of stocks for 2017 and 2018, and to determine of the refractored code improves the performance and runs the analysis faster.
 
-![LinkedImage](.\resources\green_stocks_2017.png)
-![LinkedImage](.\resources\VBA_challenge_2017.png)
-![LinkedImage](.\resources\green_stocks_2018.png)
-![LinkedImage](.\resources\VBA_challenge_2018.png)
-![LinkedImage](.\resources\All_Stocks_2017.png)
-![LinkedImage](.\resources\All_Stocks_2018.png)
+![LinkedImage](./resources/green_stocks_2017.png)
+![LinkedImage](./resources/green_stocks_2018.png)
+![LinkedImage](./resources/VBA_challenge_2017.png)
+![LinkedImage](./resources/VBA_challenge_2018.png)
+![LinkedImage](./resources/All_Stocks_2017.png)
+![LinkedImage](./resources/All_Stocks_2018.png)
 
 How to Perform the Analysis
 
