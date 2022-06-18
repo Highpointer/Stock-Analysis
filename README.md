@@ -2,7 +2,7 @@ Refactor VBA code and measure performance
 
 Purpose of Analysis
 
-The purpose of this analysis was to refractor the VBA code origianlly created to analyze the performance of the list of stocks for 2017 and 2018, and to determine if the refractored code improves the performance and runs the analysis faster.
+The purpose of this analysis was to refractor the VBA code originally created to analyze the performance of the list of stocks for 2017 and 2018, and to determine if the refractored code improves the performance and runs the analysis faster.
 
 Below are screenshots required for this assignement:
 
